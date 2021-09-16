@@ -2,12 +2,12 @@
 
 > ✨ Stay hungry,Stay foolish
 
+## Project
+[![Echi](https://github-readme-stats.vercel.app/api/pin/?username=luchx&theme=tokyonight&repo=ECHI_VUE_TODO)](https://github.com/luchx/ECHI_VUE_TODO)
+
 ## Languages
 
 [![Echi](https://github-readme-stats.vercel.app/api/top-langs/?username=luchx&layout=compact&hide=html&theme=tokyonight)](https://github.com/luchx)
-
-## Project
-[![Echi](https://github-readme-stats.vercel.app/api/pin/?username=luchx&theme=tokyonight&repo=ECHI_VUE_TODO)](https://github.com/luchx/ECHI_VUE_TODO)
 
 ## Stats
 
